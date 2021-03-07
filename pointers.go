@@ -2,6 +2,10 @@ package main
 
 import "fmt"
 
+/*
+author: Onur Sak
+*/
+
 func main() {
 	var name *string
 	fmt.Println(name) // It prints nil because currently not pointing to anything
