@@ -8,7 +8,7 @@ author: Onur Sak
 
 func main() {
 	// First way of defining an array
-	// This way is kinda verbose and there is more better way (see second way)
+	// This way is kinda verbose and there is a better way (see second way)
 	var array1 [3]int
 	array1[0] = 1
 	array1[1] = 2
